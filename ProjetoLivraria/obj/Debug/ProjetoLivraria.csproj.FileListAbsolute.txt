@@ -1,0 +1,160 @@
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\ApplicationInsights.config
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\csc.exe
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\vbc.exe
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\VBCSCompiler.exe
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\ProjetoLivraria.dll.config
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\ProjetoLivraria.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\ProjetoLivraria.pdb
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Antlr3.Runtime.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.SqlServer.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.Web.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Newtonsoft.Json.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Owin.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Optimization.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Providers.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\WebGrease.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.Web.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Optimization.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Antlr3.Runtime.pdb
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Newtonsoft.Json.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.SqlServer.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Providers.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csprojResolveAssemblyReference.cache
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.dll
+C:\Users\JoãoVictorBorgesLima\documents\visual studio 2015\Projects\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\ApplicationInsights.config
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\csc.exe
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\vbc.exe
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\VBCSCompiler.exe
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\ProjetoLivraria.dll.config
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\ProjetoLivraria.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\ProjetoLivraria.pdb
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Antlr3.Runtime.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.SqlServer.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.Web.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ApplicationInsights.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Newtonsoft.Json.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Owin.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Optimization.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Providers.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\WebGrease.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.Web.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.ApplicationInsights.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Optimization.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Antlr3.Runtime.pdb
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Newtonsoft.Json.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\EntityFramework.SqlServer.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\System.Web.Providers.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CopyComplete
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.dll
+C:\Users\victo\source\repos\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
